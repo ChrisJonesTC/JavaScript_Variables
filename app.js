@@ -4,11 +4,13 @@ console.log(
 );
 
 // Exercise 1 Declaring Variables
-const firstName = "Chris"
-let lastName = "Jones";
-let age = 31;
+const firstName = "Chris";
+let lastName;
+let age;
 
 // Exercise 2 Assigning Values to Variables
+lastName = "Jones";
+age = 31;
 
 // Exercise 3 Declaring and Assigning Values to Variables
 let language = "JavaScript";
@@ -27,6 +29,6 @@ let selectedSize = "M";
 let title = "Name of the Wind";
 let author = "Patrick Rothfuss";
 let pageCount = 722;
-let bookmark = 456;
-let hasRead = true;
+let bookmark = 456; 
+let hasRead = true; 
 
